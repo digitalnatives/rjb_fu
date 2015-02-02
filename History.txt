@@ -1,0 +1,20 @@
+== 0.2.0 / 2013-01-14
+
+* ruby 1.9 support
+
+== 0.1.3 / 2012-03-21
+
+* added RJB_FU_JVM_ARGS constant for jvm args config
+
+== 0.1.2 / 2012-01-24
+
+* styleable cells during row creation
+
+== 0.1.1 / 2011-07-27
+
+* load rjb only at initialization phase, only once
+
+== 0.1.0 / 2011-07-20
+
+* 1 major enhancement
+  * Birthday!

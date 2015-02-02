@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+<head>
+	<title>A teszt gyűlés jegyzőkönyve</title>
+	<date>2010.02.12. 15:00</date>
+</head>
+<body>
+<h1>Kezdés</h1>
+<p>2010-02-23 21:47: Teszt Elek belépett a gyűlésbe az alábbi szerepkörökkel: Indító elnök,Szavazási joggal rendelkező,Hozzászólási joggal rendelkező
+</p>
+<h2>Egy napirendi pont</h2>
+<p>2010-02-23 21:47: Egy napirendi pont tárgyalása megkezdődött.<br />
+<br />
+2010-02-23 21:48: Egy egy napirendi pont tárgyalása megkezdődött.<br />
+</p>
+<ul>
+    <li>2010-02-23 21:48: Teszt Elek a következő Ügyrendi hozzászólást tette: én vagyok a levezető, hozzászólok</li>
+</ul>
+<p><br />
+2010-02-23 21:48: Egy egy egy napirendi pont tárgyalása megkezdődött.<br />
+<br />
+2010-02-23 21:48: Szavazásra bocsátották a következő kérdést:  <strong>Az éves beszámoló elfogadása?</strong> <u>Titkos, Eldöntendő, egyszerű többség (tag &gt; 1/2) igen,nem,tartózkodom</u><br />
+<br />
+2010-02-23 21:48: A Az éves beszámoló elfogadása? szavazás befejeződött.  <u>A következő szavazatok érkeztek:</u></p>
+<table border="1" cellspacing="0" cellpadding="1">
+    <tbody>
+        <tr>
+            <td>vsK0IVSnBGTKreYx3+qmZkm+BM//tNjCgVMTv5ZCwaQ=</td>
+            <td>igen</td>
+        </tr>
+    </tbody>
+</table>
+<p>A szavazás eredménye:</p>
+<table border="1" cellspacing="0" cellpadding="1">
+    <tbody>
+        <tr>
+            <th>&#160;</th>
+            <th>szavazat</th>
+            <th>tag bázis alapján</th>
+        </tr>
+        <tr>
+            <td>igen</td>
+            <td>1 (100.00%)</td>
+            <td>1 (100.00%)</td>
+        </tr>
+        <tr>
+            <td>nem</td>
+            <td>0 (0.00%)</td>
+            <td>0 (0.00%)</td>
+        </tr>
+        <tr>
+            <td>tartózkodom</td>
+            <td>0 (0.00%)</td>
+            <td>0 (0.00%)</td>
+        </tr>
+        <tr>
+            <td>összesen</td>
+            <td>1 (100.00%)</td>
+            <td>1 (100.00%)</td>
+        </tr>
+        <tr>
+            <td>üres szavazat</td>
+            <td>0 (0.00%)</td>
+            <td>0 (0.00%)</td>
+        </tr>
+    </tbody>
+</table>
+<p>A szavazás érvénytelen volt.<br />
+<br />
+2010-02-23 21:48: A Az éves beszámoló elfogadása? szavazást lezárták.<br />
+<br />
+2010-02-23 21:49: Teszt Elek a következő Ügyrendi hozzászólást tette: na mostmár ennyi elég is lesz<br />
+<br />
+2010-02-23 21:49: Egy egy kettő napirendi pont tárgyalása megkezdődött.</p>
+<h2>Vége</h2>
+</report>
